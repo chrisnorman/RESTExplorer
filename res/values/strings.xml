@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RESTExplorer</string>
+    <string name="action_settings">Settings</string>
+    <string name="restservers">REST Servers:</string>
+    <string name="newrequest">New Request</string>
+    <string name="saverequest">Save Request</string>
+    <string name="dorequest">Do Request</string>
+    <string name="serverurl">Endpoint URL:</string>
+    <string name="targetresource">Target Resource</string>
+    <string name="request_activity_name">cmn.397.newrequest</string>
+    <string name="params">Parameters</string>
+    <string name="format">Result Format:</string>
+    <string name="isJSON">JSON</string>
+    <string name="isXML">XML</string>
+    <string name="istext">Text</string>
+    <string name="resultlength">Result Length:</string>
+    <string name="description">Description:</string>
+    <string name="resultcontenttype">Content Type:</string>
+
+</resources>
